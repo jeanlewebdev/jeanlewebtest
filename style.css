@@ -1,0 +1,26 @@
+
+.mesCards{
+
+    display: flex;
+    justify-content: space-around;
+
+   
+}
+
+
+.macard{
+
+    background-color: teal !important;
+    border: 2px solid black;
+    border-radius: 8px;
+    color: blue;
+
+    width: 200px;
+
+}
+
+
+
+.rouge{
+    color: red;
+}
